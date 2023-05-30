@@ -1,2 +1,2 @@
 #Repositorio prueba2
-git pull
+git pull (compreobando cambios primero)
