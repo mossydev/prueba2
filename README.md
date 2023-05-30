@@ -1,2 +1,2 @@
-# prueba2
-Doing pull
+#Repositorio prueba2
+git pull
